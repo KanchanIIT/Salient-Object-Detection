@@ -1,5 +1,5 @@
 # Salient Object Detection
-Implementation of Paper '[*BASNet: Boundary-Aware Salient Object Detection*](http://openaccess.thecvf.com/content_CVPR_2019/html/Qin_BASNet_Boundary-Aware_Salient_Object_Detection_CVPR_2019_paper.html)
+Implementation of Paper '[*DenseFNet: Dense Encoder-Decoder Network with Focal Loss for Salience Object Detection.*](https://eccv2020.eu/)
 
 ## Examples
 
